@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohith-patel13&label=Profile%20views&color=0e75b6&style=flat" alt="rohith-patel13" /> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently working on **MERN Stack Projects**
 
 - 💬 Ask me about **MERN, Python**
 
